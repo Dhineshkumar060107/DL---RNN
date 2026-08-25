@@ -217,8 +217,8 @@ def train_model(
 
     train_losses = []
 
-    print("\nName: RAGASUDHA")
-    print("Register Number: 212224230215")
+    print("\nName: DHINESHKUMAR L")
+    print("Register Number: 212224230066")
 
     print("\nTraining the RNN Model...\n")
 
@@ -345,8 +345,8 @@ plt.show()
 
 # Step 11: Display Predictions
 
-print("\nName: RAGASUDHA")
-print("Register Number: 212224230215")
+print("\nName: DHINESHKUMAR L")
+print("Register Number: 212224230066")
 
 print("\nPredictions on Test Data:\n")
 
@@ -382,24 +382,29 @@ print(
     "and tested using historical closing-price data."
 )
 
+
 ```
 
 ### OUTPUT
 
 ## Training Loss Over Epochs Plot
 
-<img width="790" height="541" alt="image" src="https://github.com/user-attachments/assets/7e290227-093f-48fd-a670-0ddae6d46750" />
-<img width="1202" height="591" alt="image" src="https://github.com/user-attachments/assets/d263ea80-0b23-480b-90c2-e605f7bb1524" />
+<img width="638" height="559" alt="Screenshot 2026-08-25 123922" src="https://github.com/user-attachments/assets/f5d980b5-53c0-4219-b36c-33294b99ecb9" />
+
+<img width="1070" height="578" alt="Screenshot 2026-08-25 123937" src="https://github.com/user-attachments/assets/48febe67-92ae-434d-926f-1a8cbd27fab1" />
+
 
 
 ## True Stock Price, Predicted Stock Price vs time
 
-<img width="1246" height="661" alt="image" src="https://github.com/user-attachments/assets/bbf46296-6c39-4c76-b2d1-806cdd201fcd" />
+<img width="1272" height="697" alt="Screenshot 2026-08-25 124129" src="https://github.com/user-attachments/assets/6e01e28f-ba4b-4e5a-af93-4aed5129e2e7" />
+
 
 
 ### Predictions
 
-<img width="367" height="47" alt="image" src="https://github.com/user-attachments/assets/98c91d6b-da10-4677-a900-52a1449234ad" />
+<img width="1609" height="103" alt="image" src="https://github.com/user-attachments/assets/d1a8530a-46de-4bdf-98cb-7b0c38db3e3d" />
+
 
 
 ## RESULT
